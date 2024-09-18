@@ -3,7 +3,7 @@
     "@cerbos/sdk": "^0.4.1",
     "@workos-inc/node": "^2.4.0",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-session": "^1.17.2",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
